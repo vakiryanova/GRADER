@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "courseWorkId": "111111111111",
+            "courseWorkName": "test3",
+            "submissionId": "submissionId_1",
+            "userId": "userId",
+            "email": "me@edu.hse.ru",
+            "firstName": "name",
+            "lastName": "last name",
+            "grade": 3
+        },
+        {
+            "courseWorkId": "222222222222",
+            "courseWorkName": "test",
+            "submissionId": "submissionId_2",
+            "userId": "userId",
+            "email": "me@edu.hse.ru",
+            "firstName": "name",
+            "lastName": "last name",
+            "grade": 2
+        }
+    ]
+}
